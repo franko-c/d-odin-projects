@@ -11,6 +11,9 @@ span {
     vertical-align: 1px;
 }
 /* Link styles */
+nav {
+    padding-bottom: 10px;
+}
 a {
     text-decoration: none;
 }
