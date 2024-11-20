@@ -1,6 +1,6 @@
 /* Global styles */
 body {
-    margin-top: 5%;
+    margin-top: 20px;
     /* font-family: 'Futura';
     font-weight: 100; */
     font-family: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
@@ -47,11 +47,16 @@ h3 {
     text-shadow: 1px 1px black;
     color: whitesmoke;
 }
-.pink {
+/* Nav button styling */
+
+.button {
     display: inline;
     padding: 8px 12px;
     border: 2px solid lightblue;
     border-radius: 6px;
+    background: lightcyan;
+}
+.pink {
     background: lightcyan;
     color:rgb(210, 138, 255);
     text-shadow: 1px 1px slateblue;
@@ -69,4 +74,11 @@ h3 {
 .link-three {
     color: #73628A;
     text-shadow: 1px 1px rgb(52, 88, 52);
+}
+
+/* Active page styles */
+
+.active {
+    color: greenyellow;
+    background-color: darkslategray;
 }
