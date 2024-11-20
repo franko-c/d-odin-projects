@@ -1,0 +1,72 @@
+/* Global styles */
+body {
+    margin-top: 5%;
+    /* font-family: 'Futura';
+    font-weight: 100; */
+    font-family: Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
+    font-weight: 300;
+}
+
+span {
+    vertical-align: 1px;
+}
+/* Link styles */
+a {
+    text-decoration: none;
+}
+.goto {
+    color: skyblue;
+    text-shadow: 1px 1px #d9baff;
+}
+
+/* Font styles */
+h1 {
+    color: slateblue;
+}
+p {
+    font-weight: 0;
+}
+h3 {
+    color: lightseagreen;
+}
+
+/* Colours for names */
+.yellow {
+    text-shadow: 1px 1px black;
+    color: yellow;
+}
+.red {
+    text-shadow: 1px 1px slategray;
+    color: rgb(255, 100, 100);
+}
+.jonas {
+    text-shadow: 1px 1px lightpink;
+    color: rgb(255, 100, 100);
+}
+.white {
+    text-shadow: 1px 1px black;
+    color: whitesmoke;
+}
+.pink {
+    display: inline;
+    padding: 8px 12px;
+    border: 2px solid lightblue;
+    border-radius: 6px;
+    background: lightcyan;
+    color:rgb(210, 138, 255);
+    text-shadow: 1px 1px slateblue;
+}
+
+.link-one {
+    color: #EAEAEA;
+    text-shadow: 1px 1px rgb(52, 88, 52);
+}
+.link-two {
+    color: #CBC5EA;
+    text-shadow: 1px 1px rgb(52, 88, 52);
+}
+
+.link-three {
+    color: #73628A;
+    text-shadow: 1px 1px rgb(52, 88, 52);
+}
