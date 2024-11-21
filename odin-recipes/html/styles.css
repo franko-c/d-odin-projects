@@ -59,6 +59,11 @@ h3 {
     border-radius: 6px;
     background: lightcyan;
 }
+
+.green {
+    color: green;
+    text-shadow: 1px 1px slateblue;
+}
 .pink {
     background: lightcyan;
     color:rgb(210, 138, 255);
